@@ -1,15 +1,11 @@
-body {
-  font-family: Arial, sans-serif;
-}
-
 .subscribe-button {
-  background-color: blue;
-  color: white;
+  background-color: #4CAF50;
   padding: 10px 20px;
+  color: white;
   border: none;
   border-radius: 5px;
 }
 
 .subscribe-button:hover {
-  background-color: darkblue;
+  background-color: #45a049;
 }
