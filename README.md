@@ -3,9 +3,11 @@
 
 ## About This Project
 
-This is a collaborative blog project
-built using HTML, CSS and JavaScript.
+This is a collaborative personal blog project
+developed using HTML, CSS and JavaScript,
+along with open-source technologies.
 
 ## Project Status
 
 Version 2.0 - Under Development
+
