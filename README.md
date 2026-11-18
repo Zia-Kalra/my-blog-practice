@@ -3,9 +3,11 @@
 
 ## About This Project
 
-This is my personal blog project developed
-using open-source technologies.
+This is a collaborative personal blog project
+developed using HTML, CSS and JavaScript,
+along with open-source technologies.
 
 ## Project Status
 
-Version 1.0 - Initial Release
+Version 2.0 - Under Development
+
